@@ -82,7 +82,7 @@ const Hero = () => {
 
           <p className="text-white text-sm font-medium text-center">
             George Rivas kick-started his journey as a software engineer in
-            2021. <br /> Over the past year, he has grown full-blown skills in
+            2019. <br /> Over the years, he has grown full-blown skills in
             JavaScript stacks such as <br /> React, NextJs, and now
             blockchain.
           </p>
